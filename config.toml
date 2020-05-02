@@ -1,4 +1,4 @@
-baseURL = "olegstotsky.github.io"
+baseURL = "https://olegstotsky.github.io/"
 languageCode = "en-us"
 title = "Oleg Stotsky"
 theme = "ink"
@@ -47,12 +47,17 @@ weight = 3
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/hugo-ink"
+url = "https://github.com/OlegStotsky"
 
 [[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/oleg-stotsky-3a0696191/"
+
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto:ostotsky@gmail.com"
 
 [taxonomies]
    tag = "tags"
